@@ -12,4 +12,4 @@
 
 - Halaman Edit Data
 
-![img 1](screnshoot/tambah.png)
+![img 1](screnshoot/edit.png)
